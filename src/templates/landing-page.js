@@ -48,7 +48,7 @@ export const LandingPageTemplate = ({
             <h2 className="subtitle" style={{ color: "white" }}>
               {subtitle}
             </h2>
-            <a className="button is-x-large is-outlined level has-text-weight-bold">
+            <a href="https://scanhealthplan-stage.linkhealth.com/apps/secure/dashboards/provider-dashboard/" className="button is-x-large is-outlined level has-text-weight-bold">
               Login to Your Portal
               <span class="icon is-small">
                 <FaBeer />
